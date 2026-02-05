@@ -1,0 +1,57 @@
+/* Khối tin trái */
+.tintrai{
+    width: 297px;
+    float: left;
+    margin-left: 40px;
+    margin-right: 20px;
+}
+
+.tintrai img{
+    width: 297px;
+    height: 200px;
+}
+
+.tintrai div{
+    font-size: 12px;
+    margin-bottom: 20px;
+}
+
+/* Tin chính */
+.tinto{
+    width: 642px;
+    float: left;
+    margin-right: 20px;
+}
+
+.tinto img{
+    width: 642px;
+    height: 430px;
+}
+
+.texto{
+    color: black;
+}
+
+/* Cột tin bên phải */
+.tintap{
+    width: 270px;      /* sửa lỗi pxpx */
+    float: left;
+    margin-top: 10px;
+    height:100px ;
+    margin-bottom: 25px;
+}
+
+.tintap img{
+    width: 150px;
+    height: 100px;
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 25px;
+}
+
+.tintap div{
+    font-size: 8px;
+    margin-bottom: 15px;
+    margin-bottom: 40px;
+}
+
